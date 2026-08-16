@@ -1,0 +1,7 @@
+{
+  "name": "Corruption Tracker V2",
+  "description": "An AI-powered forensic audit system for detecting white-collar crime and ensuring compliance with UK legislation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
