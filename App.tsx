@@ -8,6 +8,7 @@ import { analyzeProjectStructure, chatWithArchitect, generateFileContent } from 
 import { AnalysisStatus, AnalysisResult, ChatMessage, FileNode } from './types';
 import { LiveAgent } from './components/LiveAgent';
 import { StreamlitPreview } from './components/StreamlitPreview';
+import { DataAnalysisPanel } from './components/DataAnalysisPanel';
 import JSZip from 'jszip';
 
 // Helper to clone tree
